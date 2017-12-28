@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storyboards on MOJO</title>
-    <link>http://www.mojosplus.com/storyboards/</link>
+    <link>https://richardsang2008.github.io/sijia-site/storyboards/</link>
     <description>Recent content in Storyboards on MOJO</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>rosejoyrose@domain.com (Sijia Luo)</managingEditor>
     <webMaster>rosejoyrose@domain.com (Sijia Luo)</webMaster>
     
-	<atom:link href="http://www.mojosplus.com/storyboards/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richardsang2008.github.io/sijia-site/storyboards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TEEN TITANS</title>
-      <link>http://www.mojosplus.com/storyboards/story3/</link>
+      <link>https://richardsang2008.github.io/sijia-site/storyboards/story3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>rosejoyrose@domain.com (Sijia Luo)</author>
-      <guid>http://www.mojosplus.com/storyboards/story3/</guid>
+      <guid>https://richardsang2008.github.io/sijia-site/storyboards/story3/</guid>
       <description>0th
       02 01 01
       02 01 02
@@ -30,10 +30,10 @@
     
     <item>
       <title>TMNT-COMEDY</title>
-      <link>http://www.mojosplus.com/storyboards/story1/</link>
+      <link>https://richardsang2008.github.io/sijia-site/storyboards/story1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>rosejoyrose@domain.com (Sijia Luo)</author>
-      <guid>http://www.mojosplus.com/storyboards/story1/</guid>
+      <guid>https://richardsang2008.github.io/sijia-site/storyboards/story1/</guid>
       <description>Tmnt 0000
       Tmnt 0001 1
       Tmnt 0002 01
@@ -47,10 +47,10 @@
     
     <item>
       <title>TMNT-DRAMA</title>
-      <link>http://www.mojosplus.com/storyboards/story2/</link>
+      <link>https://richardsang2008.github.io/sijia-site/storyboards/story2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>rosejoyrose@domain.com (Sijia Luo)</author>
-      <guid>http://www.mojosplus.com/storyboards/story2/</guid>
+      <guid>https://richardsang2008.github.io/sijia-site/storyboards/story2/</guid>
       <description>0th
       Sewer 001 1
       Sewer 002 1

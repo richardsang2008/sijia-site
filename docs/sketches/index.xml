@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketches on MOJO</title>
-    <link>http://www.mojosplus.com/sketches/</link>
+    <link>https://richardsang2008.github.io/sijia-site/sketches/</link>
     <description>Recent content in Sketches on MOJO</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>rosejoyrose@domain.com (Sijia Luo)</managingEditor>
     <webMaster>rosejoyrose@domain.com (Sijia Luo)</webMaster>
     
-	<atom:link href="http://www.mojosplus.com/sketches/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richardsang2008.github.io/sijia-site/sketches/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.mojosplus.com/sketches/sketch1/</link>
+      <link>https://richardsang2008.github.io/sijia-site/sketches/sketch1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>rosejoyrose@domain.com (Sijia Luo)</author>
-      <guid>http://www.mojosplus.com/sketches/sketch1/</guid>
+      <guid>https://richardsang2008.github.io/sijia-site/sketches/sketch1/</guid>
       <description>   1st
       2nd
       3rd
