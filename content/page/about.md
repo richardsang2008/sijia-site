@@ -2,6 +2,7 @@
 title: MOJO
 subtitle: Sijia Luo
 comments: false
+draft : false
 ---
 <center>[Download Resume](/files/resume.pdf)</center>
 
